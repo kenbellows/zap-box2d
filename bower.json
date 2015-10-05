@@ -1,0 +1,28 @@
+{
+  "name": "zap-box2d",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kenbellows/zap-box2d",
+  "authors": [
+    "Ken Bellows <ken.bellows@live.com>"
+  ],
+  "description": "Second iteration of a game concept written with Box2D HTML5 (original super-basically prototyped in Processing JS)",
+  "main": "app.js",
+  "moduleType": [],
+  "keywords": [
+    "box2d",
+    "html5",
+    "game"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "box2d-html5": "~0.1.230"
+  }
+}
